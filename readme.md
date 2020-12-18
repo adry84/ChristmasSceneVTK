@@ -19,7 +19,7 @@ A release binary is in Exe folder
 
 Project for master 2 SETSIS to learn VTK library
 
-##Media
+## Media
 * Background image : https://www.walpaperlist.com/2020/01/colorful-christmas-lights-wallpaper.html
 * Snowflake : http://clipart-library.com/clipart/pToArjn9c.htm
 
